@@ -5,5 +5,5 @@ switch(jour){
     case "Samedi":
     console.log("Aujourd'hui est un demi-jour de répos");break
     default:
-        console.log("Aujourd'hui n'est pas un jour de répos");
+        console.log("Aujourd'hui est un jour de travail");
 }
